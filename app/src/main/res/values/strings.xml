@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CATEGORIES</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="PrimaryColor">#F48FB1</color>
+    <color name="PrimaryColorDark">#EC407A</color>
+    <color name="ColorAccent">#9C27B0</color>
+
+   <!-- <color name="BaseColor">#FFFFFF</color>
+    <color name="BackgroundColor">#FCE4EC</color> -->
+
+</resources>
+
+
